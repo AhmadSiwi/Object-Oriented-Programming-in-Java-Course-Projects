@@ -2,7 +2,7 @@
 
 As in the title this repository has the codes of [Object Oriented Programming in Java Course](https://eg.udacity.com/course/object-oriented-programming-in-java--ud283) projects.
 
-First Project is Guess The Movie. And Here is its description.
+### First Project is Guess The Movie. And Here is its description.
 ___
 Ok, it's time to build your own project in Java, this time you'll be completing a game where the player gets to guess the movie name given the number of letters in it (pretty much like hangman but with movies)!
 
